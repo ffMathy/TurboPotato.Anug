@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.28711.60
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Autofake.Tests", "Autofake.Tests\Autofake.Tests.csproj", "{C8A5A193-07CB-4C0D-B535-9DAE3E1475BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autofake", "Autofake\Autofake.csproj", "{7ACBB378-28B5-42B7-B161-B90A890347C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Autofake", "Autofake\Autofake.csproj", "{7ACBB378-28B5-42B7-B161-B90A890347C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Automation", "Automation\Automation.csproj", "{83543EC0-5E93-423F-8052-E0DC118D4349}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{7ACBB378-28B5-42B7-B161-B90A890347C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7ACBB378-28B5-42B7-B161-B90A890347C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7ACBB378-28B5-42B7-B161-B90A890347C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83543EC0-5E93-423F-8052-E0DC118D4349}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83543EC0-5E93-423F-8052-E0DC118D4349}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83543EC0-5E93-423F-8052-E0DC118D4349}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83543EC0-5E93-423F-8052-E0DC118D4349}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
