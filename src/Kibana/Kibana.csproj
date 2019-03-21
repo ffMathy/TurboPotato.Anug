@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="FluffySpoon.Kibana" Version="1.19.0" />
+    <PackageReference Include="FluffySpoon.Kibana" Version="1.23.0" />
   </ItemGroup>
 
   <ItemGroup>
