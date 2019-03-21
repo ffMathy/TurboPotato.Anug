@@ -14,6 +14,7 @@ namespace Kibana
             var elasticsearchQuery = parser.ConvertUrlToElasticsearchQueryString(kibanaUrl, "order_date");
 
             Console.WriteLine(elasticsearchQuery);
+            File.WriteAllText("ElasticsearchQuery.txt", elasticsearchQuery);
 
             Console.ReadLine();
         }
